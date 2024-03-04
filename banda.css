@@ -1,0 +1,28 @@
+body{ /*cuerpo de la pagina*/
+    background-color: black; /*Color de fondo de la pagina web*/
+}
+
+h1{ /*Titulo principal*/
+    font-family: Comic Sans MS; /*Tipo de fuente del titulo principal*/
+    text-align: center; /*Texto alineado al centro*/
+    color: white; /*Color de letra*/
+}
+
+pre{ /*estilo del texto*/
+    font-family: Comic Sans MS; /*Tipo de fuente del verso*/
+    text-align: center; /*Texto centrado*/
+    color: white; /*Color de letra*/
+}
+
+img { /*estilo de la imagen*/
+    width:100% ;  /*ancho de la imagen*/
+    height: 100%; /*altura de la imagen*/
+    alt: Imagen de banda fav; /*Texto por si no muestra la imagen*/
+    }
+    
+figcaption{ /*estilo del pie de la imagen*/
+    font-family: Comic Sans MS; /*Tipo de fuente*/
+    text-align: center; /*Texto centrado*/
+    color: white; /*Color de letra*/
+    }
+
